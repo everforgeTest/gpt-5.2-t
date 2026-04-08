@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "postExecutionScriptName": "./post_exec.sh",
+    "dbPath": "token.db",
+    "dbScriptsFolderPath": "./dbScripts",
+    "newContractZipFileName": "./newContractData.zip"
+  }
+}
