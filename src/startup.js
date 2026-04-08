@@ -3,7 +3,7 @@ const bson = require("bson");
 const { Controller } = require("./controller");
 const { DBInitializer } = require("./Data.Deploy/initDB");
 const { SharedService } = require("./Services/Common.Services/SharedService");
-
+//aaasad
 const contract = async ctx => {
   console.log("Token contract is running.");
 
